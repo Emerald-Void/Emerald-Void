@@ -1,16 +1,18 @@
-### Hi there 👋
+# Emerald_Void
 
-<!--
-**Emerald-Void/Emerald-Void** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+``Digital Craftsman (Streamer, Youtuber, Graphic Designer)``
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect With Me:
+
+[![Nostalgiacade](https://img.shields.io/badge/Nostalgiacade-FF0000?style=for-the-badge&logo=youtube&logoColor=ffffff)](https://www.youtube.com/channel/UCrn320jsOmDtiM4hM_-OZIA) 
+[![Emerald_Void](https://img.shields.io/badge/Emerald__Void-9146FF?style=for-the-badge&logo=twitch&logoColor=ffffff)](https://www.twitch.tv/emerald_void) 
+[![Void Chat](https://img.shields.io/badge/Void_Chat-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/q67zUJns)
+
+---
+
+### 📺 Latest Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
