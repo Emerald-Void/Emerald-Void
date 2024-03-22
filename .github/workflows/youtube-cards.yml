@@ -1,4 +1,7 @@
 name: GitHub Readme YouTube Cards
+runs:
+  using: 'node20'
+  main: 'main.js'
 on:
   schedule:
     # Runs every hour, on the hour
@@ -8,6 +11,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
     # Allow the job to commit to the repository
     permissions:
       contents: write
