@@ -1,4 +1,7 @@
 name: GitHub Readme YouTube Cards
+uses: actions/setup-node@v2
+        with:
+          node-version: 16
 on:
   schedule:
     # Runs every hour, on the hour
